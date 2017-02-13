@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Created by siefker on 13.02.2017.
  */
 @SpringBootApplication
-public class DVBLinkEGUI {
+public class DvblinkEgui {
     public static void main(String[] args) throws Exception {
-        SpringApplication.run(DVBLinkEGUI.class, args);
+        SpringApplication.run(DvblinkEgui.class, args);
     }
 }
